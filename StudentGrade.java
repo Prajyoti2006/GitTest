@@ -5,7 +5,7 @@ public class StudentGrade {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter student name: ");
+        System.out.print("Enter Student name: ");
         String name = sc.nextLine();
 
         System.out.print("Enter marks in Java: ");
