@@ -16,7 +16,7 @@ public static void main(String args[]) throws IOException
  System.out.println("Please enter the received Code Word: ");
  String rec = br.readLine();
  if(Integer.parseInt(div(rec,gen)) == 0)
- System.out.println("The received code word contains no errors.");
+ System.out.println("The received code has no errors.");
  else
  System.out.println("The received code word contains errors.");
  }
