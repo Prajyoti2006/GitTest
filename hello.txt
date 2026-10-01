@@ -1,5 +1,5 @@
 Hello DevOps
 Learning Git Branch
 DevOps is Interesting Subject 
-It is very helpful for us
- Hello, this is Pranali's change
+It is very useful
+
