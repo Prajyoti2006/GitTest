@@ -53,8 +53,5 @@ static String div(String num1,String num2)
  return remainder.substring(1,remainder.length());
  }
 }
-sonar.projectKey=StudentManagementSystem
-sonar.projectName=Student Management System
-sonar.sources=.
-sonar.sourceEncoding=UTF-8
+
 
